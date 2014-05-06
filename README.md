@@ -9,3 +9,6 @@ These are code references that I use to implement tus-protocol:
 
 1. Intent Service: http://developer.android.com/reference/android/app/IntentService.html
 2. How to user Intent Service: http://www.vogella.com/tutorials/AndroidServices/article.html
+
+Protocol reference:
+1. http://tus.io/protocols/resumable-upload.html
